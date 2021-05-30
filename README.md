@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DearVito
-- 👀 I’m interested in finance,stock exchange and computer science.
+- 👀 I’m interested in investing,finance,stock exchange and computer science.
 - 🌱 I’m currently learning python 3.0.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
