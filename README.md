@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DearVito
 - 👀 I’m interested in investing,finance,stock exchange and computer science.
-- 🌱 I’m currently learning python 3.0.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning SQL.
+- 📫 How to reach me <decent.future@yahoo.com>.
 - My CV website is: https://DearVito.github.io/cv/
 
 <!---
