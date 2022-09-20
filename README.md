@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DearVito
 - 👀 I’m interested in investing,finance,stock exchange and computer science.
-- 🌱 I’m currently learning Automation Testing.
 - 📫 How to reach me <dearvito@yandex.com>.
 - My website is: https://DearVito.github.io/cv/
 
