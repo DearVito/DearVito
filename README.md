@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vitaly Kravchenko
 - 👀 I’m interested in investing, finance, stock exchange and computer science.
-- 📫 How to reach me <dearvito@yandex.com>.
+- 📫 How to reach me <deployonfriday@gmail.com>.
 - My website is: https://DearVito.github.io/cv/
 
 <!---
